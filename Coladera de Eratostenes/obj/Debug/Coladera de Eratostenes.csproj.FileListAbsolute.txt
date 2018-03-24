@@ -1,0 +1,10 @@
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\bin\Debug\Coladera de Eratostenes.exe.config
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\bin\Debug\Coladera de Eratostenes.exe
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\bin\Debug\Coladera de Eratostenes.pdb
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.csprojResolveAssemblyReference.cache
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera_de_Eratostenes.Form1.resources
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera_de_Eratostenes.Properties.Resources.resources
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.csproj.GenerateResource.Cache
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.csproj.CoreCompileInputs.cache
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.exe
+c:\users\hrolo\source\repos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.pdb
